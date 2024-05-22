@@ -1,5 +1,5 @@
 # AWS-S3-Bucket
-Hosting a static webpage using AWS S3 Bucker Service
+Hosting a static webpage using AWS S3 Bucket Service
 What is AWS S3 Bucket
 An S3 bucket is a fundamental storage container in Amazon Web Services' (AWS) Simple Storage Service (S3). S3 buckets are used to store objects, which consist of data and metadata, such as images, videos, documents, backups, and other files. Here's a breakdown of key features and concepts:
 
