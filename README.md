@@ -35,3 +35,8 @@ To create an S3 bucket using the AWS Management Console:
 7. Review and create the bucket.
 
 S3 buckets provide a flexible and scalable storage solution suitable for a wide range of applications, making them a critical component of AWS's cloud storage offerings.
+
+<img width="1440" alt="Screenshot 2024-05-22 at 8 14 02 AM" src="https://github.com/ravichandrag464/AWS-S3-Bucket/assets/135985305/9e0d84e3-857f-4565-a0ed-95576627b2f3">
+<img width="1440" alt="Screenshot 2024-05-22 at 8 14 15 AM" src="https://github.com/ravichandrag464/AWS-S3-Bucket/assets/135985305/4194c119-8ee0-446d-acde-fdd380640ad6">
+<img width="1440" alt="Screenshot 2024-05-22 at 8 14 24 AM" src="https://github.com/ravichandrag464/AWS-S3-Bucket/assets/135985305/b55e5fad-136e-47e6-b0b6-3e784818a01d">
+
